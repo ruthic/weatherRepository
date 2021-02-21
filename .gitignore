@@ -2,6 +2,7 @@
 
 # dependencies
 weatherNodeApp/node_modules
+weatherNodeApp.env
 weather_react_app/node_modules
 weather_react_app/package-lock.json 
 weatherNodeApp/package-lock.json  
